@@ -2,7 +2,6 @@ const { NextFederationPlugin } = require("@module-federation/nextjs-mf");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  target: "serverless",
 
   webpack: (config, options) => {
     const { isServer } = options;
