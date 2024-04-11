@@ -11,7 +11,7 @@ const nextConfig = {
         name: "micro",
         filename: "static/chunks/remoteEntry.js",
         remotes: {
-          principal: `principal@http://localhost:3000/_next/static/${
+          principal: `principal@https://asafepmn.netlify.app/_next/static/${
             isServer ? "ssr" : "chunks"
           }/remoteEntry.js`,
         },
