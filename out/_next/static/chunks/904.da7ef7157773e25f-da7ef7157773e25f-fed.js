@@ -1,1 +1,0 @@
-(self.microchunkLoader=self.microchunkLoader||[]).push([[904],{9904:function(e){e.exports={default:{"/":"./pages/index"}}}}]);
