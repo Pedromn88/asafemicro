@@ -8,7 +8,7 @@ export default function Home() {
       <link rel="icon" href="/favicon.ico" />
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Micro Site</h1>
+        <h1 className={styles.title}>Micro Site para Asafe</h1>
       </main>
     </div>
   );
